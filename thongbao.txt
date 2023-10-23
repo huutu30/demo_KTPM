@@ -8,5 +8,10 @@ int main() {
 }
 ///alo da sua
 //comment gay conflict
+<<<<<<< HEAD
 /// sua lan thu 3
 ///sao lam khong duocccccc 
+=======
+/// sua lan thu 3 
+///xung dot
+>>>>>>> new1
